@@ -1,8 +1,8 @@
 
 
-<center>Spotlight - Blogger Template
-</br>By Just A Guy Coding (justaguycoding.com)</center>
-------
+# Spotlight - Blogger Template
+#### A Free Blogger Theme by Just A Guy Coding (justaguycoding.com)
+
 
 Spotlight is a free Google Blogger Template theme. These notes explain how to install and configure the template with Blogger. 
 
